@@ -1,28 +1,25 @@
-# TEMPLATE OSS REPOSITORY
+# Sample SDK Repo
 
 
 ## Description
 
-This repo serves as an example for anyone wondering about the basic requirements necessary to set up an open source repository. The Issues, pull requests, supporting docs and [templates](https://github.com/tkshill/Template/tree/main/.github) are all meant to guides/resources for those wishing to create healthy spaces for contributions.
-
-To see a more detailed breakdown of the open source process check out [this wiki](https://github.com/tkshill/Template/wiki/A-Starter-Guide-to-Open-Source-Project-Maintenance) of the template project detailing tools and tips for OSS maintenance and contributions.
-
-Topics covered in the Wiki:
-- Setting up the "community" docs defined by Github insights
-- The value of Issue and Pull Request Templates
-- How to communicate well with contributors
-- Avoiding burnout as a maintainer
-- Links to long form content on OSS development
+This repo will be an example of how to write a simple SDK (Software Development Kit). @Cerchie is intending to design a free course on writing SDKs. One of the parts of the course would focus on what an SDK is and how to create on from scratch, and this repository would serve as an example. 
 
 ## Roadmap
 
-The goal is to craft as many useful and relevant features as we can, in a transparent way so that anyone who stumbles upon this repo can see not just result, but process.
+There are a few things that prevent this from being a complete example of an SDK:
+
+  1. The tests are incomplete.
+  2. The repo has not been published to npm. 
+  3. The API needs to be switched to one that does not require a password, for simplicity's sake. (Easier to follow tutorials when you don't need to sign up for an API).
+  
+We will make some issues to track our progress. 
 
 ## Contributing
 
-Any and all folks are welcome to contribute. Please check out our [contribution](https://github.com/tkshill/Template/blob/main/CONTRIBUTING.md) file for a full breakdown!
+Any and all folks are welcome to contribute. Please check out our [contribution](https://github.com/Cerchie/sample-sdk/blob/main/CONTRIBUTING.md) file for a full breakdown!
 
-Also please take a look at the [Code of Conduct](https://github.com/tkshill/Template/blob/main/CODE_OF_CONDUCT.md) which explains how we try to make this an inclusive space for all.
+Also please take a look at the [Code of Conduct](https://github.com/Cerchie/sample-sdk/blob/main/CODE_OF_CONDUCT.md) which explains how we try to make this an inclusive space for all.
 
 ## Authors and acknowledgment
 
@@ -30,12 +27,12 @@ Thank you to everyone who has helped or supported this project, especially the [
 
 ## License
 
-This repo currently uses the [GPL-3.0 licencse](https://github.com/tkshill/Template/blob/main/LICENSE)
+This repo currently uses the [MIT Licence](https://github.com/Cerchie/sample-sdk/blob/main/LICENSE)
 
 ## Project status
 
-Project is still being regularly updated, although since its main intended purpose is to be used as a template, large structural changes are not expected.
+Project is still being regularly updated, although since its main intended purpose is to be used as an example, large structural changes are not expected. However, it is not published to npm yet. 
 
 ## Contributors
 
-[Take a look at the people who make this possible!](https://github.com/tkshill/Template/blob/main/humans.md)
+[Take a look at the people who make this possible!](https://github.com/Cerchie/sample-sdk/blob/main/humans.md)
