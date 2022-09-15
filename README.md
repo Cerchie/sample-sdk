@@ -27,7 +27,7 @@ Thank you to everyone who has helped or supported this project, especially the [
 
 ## License
 
-This repo currently uses the [MIT Licence](https://github.com/Cerchie/sample-sdk/blob/main/LICENSE)
+This repo currently uses the [MIT License](https://github.com/Cerchie/sample-sdk/blob/main/LICENSE)
 
 ## Project status
 
