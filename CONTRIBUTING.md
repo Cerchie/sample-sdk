@@ -67,7 +67,7 @@ That's all for now. If you feel like anything is missing from this document that
 
 # How to report a bug
 ### A note on security
-If you find a security vulnerability, do NOT open an issue. Email kirk.shilling@gmail.com instead.
+If you find a security vulnerability, do NOT open an issue. Email luciacerchie@gmail.com instead.
 
 
 ### Bug report template
