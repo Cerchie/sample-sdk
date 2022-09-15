@@ -1,12 +1,12 @@
 ### TEAM
-Title: OSS Template Repository
+Title: Sample SDK
 
-Site: https://github.com/tkshill/Template
+Site: https://github.com/Cerchie/sample-sdk
 
-Twitter: @tkshillinz
+Twitter: @Cerchie
 
 ### SITE
-Last Update: 20202/09/20
+Last Update: 2022/09/15
 
 Software: Markdown
 
@@ -14,4 +14,4 @@ Software: Markdown
 Name: https://meetingplace.io/virtual-coffee
 
 
-Humans.txt file generated at http://humanstxtgenerator.beewits.com
+Humans.txt file originally generated at http://humanstxtgenerator.beewits.com
