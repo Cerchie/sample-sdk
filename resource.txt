@@ -1,0 +1,2 @@
+https://github.com/node-fetch/node-fetch/tree/2.x#installation
+resource that solved the testing issue: https://medium.com/nerd-for-tech/testing-typescript-with-jest-290eaee9479d
