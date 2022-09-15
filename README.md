@@ -3,7 +3,7 @@
 
 ## Description
 
-This repo will be an example of how to write a simple SDK (Software Development Kit). @Cerchie is intending to design a free course on writing SDKs. One of the parts of the course would focus on what an SDK is and how to create on from scratch, and this repository would serve as an example. 
+This repo will be an example of how to write a simple SDK (Software Development Kit) in TS and node. @Cerchie is intending to design a free course on writing SDKs. One of the parts of the course would focus on what an SDK is and how to create on from scratch, and this repository would serve as an example. 
 
 ## Roadmap
 
